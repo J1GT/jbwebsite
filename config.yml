@@ -15,15 +15,17 @@ plugins:
 # HTML Title
 title: "Juan and Bri"
 
+# Avatar image path
+avatar: "./images/profile.jpeg"
+
 # Name section text
 name: "Juan and Bri"
 
 # Tagline section text
-tagline: >
-    Hey, you found us!\n
-    We do stuff online and offline.\n
-    Juan does tech things and Bri does art things.\n
-    \n
+tagline: >+
+    Hey, you found us!
+    We do stuff online and offline.
+    Juan does tech things and Bri does art things.
     Go outside and touch grass!
 
 # List of links
@@ -46,7 +48,6 @@ socials:
       title: "Bri's Instagram"
       alt: "Bri's Instagram"
       target: "_blank"
-
 
 # Footer text
 footer: >
