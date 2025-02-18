@@ -22,10 +22,9 @@ avatar: "./images/profile.jpeg"
 name: "Juan and Bri"
 
 # Tagline section text
-tagline: >+
-    Hey, you found us!
-    We do stuff online and offline.
-    Juan does tech things and Bri does art things.
+tagline:
+    Hey, you found us!We do stuff online and offline.\n
+    Juan does tech things and Bri does art things.\n
     Go outside and touch grass!
 
 # List of links
