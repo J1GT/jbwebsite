@@ -19,9 +19,8 @@ title: "Juan and Bri"
 name: "Juan and Bri"
 
 # Tagline section text
-tagline: >-
-    'We do stuff online and offline.\n
-    Juan does tech things and Bri does art things.\n
+tagline: >
+    'We do stuff online and offline. Juan does tech things and Bri does art things.
     Go outside and touch grass!'
 
 # List of links
@@ -40,7 +39,7 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/cheesiebri"/"
+      url: "https://www.instagram.com/cheesiebri/"
       title: "Bri'sInstagram"
       alt: "ZhgChgLi's Instagram"
       target: "_blank"
