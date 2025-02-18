@@ -20,7 +20,9 @@ name: "Juan and Bri"
 
 # Tagline section text
 tagline: >-
-    We do stuff online and offline. Juan does tech things and Bri does art things. Go outside and touch grass!
+    'We do stuff online and offline.\n
+    Juan does tech things and Bri does art things.\n
+    Go outside and touch grass!'
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
