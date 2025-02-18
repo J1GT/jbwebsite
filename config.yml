@@ -22,7 +22,8 @@ avatar: "./images/profile.jpeg"
 name: "Juan and Bri"
 
 # Tagline section text
-tagline: Hey, you found us!We do stuff online and offline.
+tagline:
+Hey, you found us!We do stuff online and offline.
 Juan does tech things and Bri does art things.
 Go outside and touch grass!
 
@@ -49,7 +50,7 @@ socials:
 
 # Footer text
 footer: >
-    We might take some time to get back to you so please be patient.
+    We might take some time to get back to you.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
